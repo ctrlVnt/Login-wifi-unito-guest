@@ -1,7 +1,3 @@
-#Link per login UniTo: https://captive.wifi.unito.it/fs/customwebauth/login-01.html?switch_url=https://captive.wifi.unito.it/login.html&ap_mac=cc:db:93:0c:27:20&client_mac=74:12:b3:fd:b2:b3&wlan=unito-guest&redirect=detectportal.firefox.com/canonical.html
-#xpath username: /html/body/div[2]/div[2]/div/div/form/div[1]/input
-#xpath password: /html/body/div[2]/div[2]/div/div/form/div[2]/input
-
 from fileinput import close
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
