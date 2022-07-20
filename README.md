@@ -10,5 +10,5 @@ Il bot funziona solamente quando siete collegati alla rete "unito-guest", che po
 
 ## Come avviarlo?
 
--recarsi nella cartella contenente il file "login.py" *da terminale*
--digitare "make play" o "make"
+* recarsi nella cartella contenente il file "login.py" *da terminale*
+* digitare "make play" o "make"
