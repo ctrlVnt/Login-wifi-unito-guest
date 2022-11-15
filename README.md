@@ -12,3 +12,8 @@ Il bot funziona solamente quando siete collegati alla rete "unito-guest", che po
 
 * recarsi nella cartella contenente il file "login.py" **da terminale**
 * digitare "make play" o "make"
+
+## Documentazione utile
+
+Bot implementato utilizzando il WebDriver Selenium
+https://selenium-python.readthedocs.io/
