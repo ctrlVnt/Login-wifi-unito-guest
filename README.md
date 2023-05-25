@@ -15,4 +15,8 @@ Il bot funziona solamente quando siete collegati alla rete "unito-guest", che po
 
 ## Documentazione utile
 
+Bisogna avere installato phyton sul computer:
+
+sudo apt-get install python3
+
 Bot implementato utilizzando il WebDriver Selenium: https://selenium-python.readthedocs.io/
